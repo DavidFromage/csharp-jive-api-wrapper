@@ -2,10 +2,13 @@
 
 A simple wrapper to communicate with the Jive Software REST API.
 It provides :
-* A model that represents API objects (blog posts, documents, persons, etc.)
+* A model that represents API objects (blog posts, documents, persons, etc.). 
+Based on the work of Dale Cox (see https://community.jivesoftware.com/docs/DOC-82646#jive_content_id_License_)
 * Authentication method with the possibility to impersonate a different user
 * Methods to GET, PUT, POST items to the API
 * A list of available endpoints (work in progress)
+
+*Warning ! This is a work in progress. Some issues may occur. Please warn me if it's the case!*
 
 # How to use it
 
@@ -33,6 +36,8 @@ if (isAuthentified) {
 	Person person = jiveApiClient.GetItem<Person>(EndPoints.PeopleByIdWithPhotos, "usernameToFind");
 }
 ```
+
+Note : in order to get oauth secret and ID, you must add an empty add-on and retrieve them from the add-on admin page, as shown here : https://community.jivesoftware.com/docs/DOC-97348#jive_content_id_Obtaining_an_Access_Token_using_Authorization_Code_Grant and https://community.jivesoftware.com/docs/DOC-99941
 # Available endpoints
 Work in progress...
 ```csharp
