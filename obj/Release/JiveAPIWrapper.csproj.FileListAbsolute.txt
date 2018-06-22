@@ -1,0 +1,10 @@
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\bin\Release\JiveAPIWrapper.dll.config
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\bin\Release\JiveAPIWrapper.dll
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\bin\Release\JiveAPIWrapper.pdb
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\bin\Release\Newtonsoft.Json.dll
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\bin\Release\Newtonsoft.Json.xml
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\obj\Release\JiveAPIWrapper.csprojResolveAssemblyReference.cache
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\obj\Release\JiveAPIWrapper.csproj.CoreCompileInputs.cache
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\obj\Release\JiveAPIWrapper.csproj.CopyComplete
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\obj\Release\JiveAPIWrapper.dll
+D:\Repo\JiveAPiWrapper\JiveAPiWrapper\obj\Release\JiveAPIWrapper.pdb
